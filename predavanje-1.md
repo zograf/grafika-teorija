@@ -94,9 +94,9 @@ Svaki proces u pipeline-u resava jedan deo posla. Pipeline se moze ubrzati paral
 - Svaki model ima svoje atribute i koordinate
 - Object/Model space - ovde kreiramo model sa atributima i koordinatama
 - **Model transform** - postavlja model na zeljenu poziciju iz model space-a u world (scenu)
-![Model transform](model-transform.png)
+![Model transform](img/model-transform.png)
 - **View transform** - mapira temena iz world (scene) u koordinatni sistem kamere (camera space)
-![View transform](view-transform.png)
+![View transform](img/view-transform.png)
 - Camera space - prostor na koji korisnik gleda iz neke tacke scene "kroz kameru"
 ##### Vertex shading
 - Radi sa vertexima; Moze sve sem da kreira ili unistava temena, ali moze podatke koji su pridruzeni temenu
@@ -114,7 +114,7 @@ Svaki proces u pipeline-u resava jedan deo posla. Pipeline se moze ubrzati paral
 - Iz kvadrata klipinga razvlaci na odnos sirine i visine prozora; skaliranje + transliranje
 
 #### Vizuelizacija
-![Geometry visualisation](geometry-visualisation.png)
+![Geometry visualisation](img/geometry-visualisation.png)
 
 #### RASTERIZACIJA
 ##### Triangle Setup
