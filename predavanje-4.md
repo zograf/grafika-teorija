@@ -1,5 +1,3 @@
-*Beleske sa predavanja 3 nemam :( ali je ponovio na predavanju 4 :)*
-
 # Ponavljanje
 ### Arhitektura rasterskog hardvera bez GPU
 ![Arhitektura](img/arhitektura-bez-gpu.png)
@@ -20,6 +18,7 @@
 - Look Up Table arhitektura video kontrolera:
     -   Lookup buffer ocekuje da boja bude definisana u lookup tabeli, a frame buffer ima indekse iz lookup tabele
     -   Manje opterecujuci za memoriju, ali je sporiji (od klasicnog)
+
 # Predavanje 4
 
 ## Tok rada graficke aplikacije

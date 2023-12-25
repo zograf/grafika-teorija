@@ -1,3 +1,5 @@
+# Predavanje 2
+
 # Oblasti racunarske grafike
 
 ### Generativna grafika
