@@ -3,10 +3,11 @@
 ## Pointerski uredjaji
 - Sluze za pointiranje (lol)
 
-### Pointerski uredjaji indirektne kontrole 
-- Njegov posrednik se dovede na graficki prikaz pa se onda upotrebi (mis - dovedemo kursor na poziciju pa onda upravljamo; touchpad)
-- Manje gresaka jer je precizniji (lakse misom pogoditi nesto na ekranu nego jagodicom prsta na touch screen ekranu)
-- Mis moze duze da se koristi bez umora ruke (nego touch screen ekran)
+### Pointerski uredjaji direktne kontrole 
+- Direktno poentiram na ekran bez posrednika (touch screen ekran)
+- Intuitivnije za ljude koji su manje upoznati sa tehnologijom
+- Mana je sto recimo na touch screen ekranu kada pritiskamo, pokrivamo rukom deo ekrana pa ne vidimo ceo ekran
+- Slobodni pokret (crtanje) je dosta laksi kod direktnih (graficka tabla je jedini indirektni uredjaj kod kog je slobodan pokret prirodan)
 
 ##### Svetlosno pero
 - Prvi pointerski uredjaj direktne kontrole
@@ -25,11 +26,10 @@
 - Rezistivni ekrani su otporniji na hemikalije (npr kod automehanicara, negde napolju...; otproniji su na udarac i jako pritiskanje)
 - Mogu reagovati na vise dodira u isto vreme (multi-touch)
 
-### Pointerski uredjaji direktne kontrole 
-- Direktno poentiram na ekran bez posrednika (touch screen ekran)
-- Intuitivnije za ljude koji su manje upoznati sa tehnologijom
-- Mana je sto recimo na touch screen ekranu kada pritiskamo, pokrivamo rukom deo ekrana pa ne vidimo ceo ekran
-- Slobodni pokret (crtanje) je dosta laksi kod direktnih (graficka tabla je jedini indirektni uredjaj kod kog je slobodan pokret prirodan)
+### Pointerski uredjaji indirektne kontrole 
+- Njegov posrednik se dovede na graficki prikaz pa se onda upotrebi (mis - dovedemo kursor na poziciju pa onda upravljamo; touchpad)
+- Manje gresaka jer je precizniji (lakse misom pogoditi nesto na ekranu nego jagodicom prsta na touch screen ekranu)
+- Mis moze duze da se koristi bez umora ruke (nego touch screen ekran)
 
 ##### Mis
 - Prvo su dolazili sa kuglicom - problem je bio sto udje prasina kod kuglice, tesko je da se izvadi i ocisti
