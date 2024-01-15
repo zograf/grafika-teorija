@@ -58,7 +58,7 @@ Verovatno se zove reflektivno jer menja monotoniju u toj tacki, ali nmp. Nastavl
 - Treci algoritam koji deli prostor (deli na polu ravni)
 - Trougao se predstavlja kao 3 prave provucene kroz 3 temena i prikazuju se jednacinama prave
 - Svaka prava deli prostor na 2 polu ravni
-- Kako znamo da li su pikseli unutar trougla ili van trougla (sa koje strane poluravni se nalaze)? - Ako za dati piksel koji ispitujem kada uvrstim u sve 3 jednacine prave dobijem pozitivnu vrednost - onda je on izmedju njih (u trouglu). Ako barem jedna jednacina kaze da je vrednost piksela > 0, onda odbacujem
+- Kako znamo da li su pikseli unutar trougla ili van trougla (sa koje strane poluravni se nalaze)? - Ako za dati piksel koji ispitujem kada uvrstim u sve 3 jednacine prave dobijem pozitivnu vrednost - onda je on izmedju njih (u trouglu). Ako barem jedna jednacina kaze da je vrednost piksela < 0, onda odbacujem
 - Da ne bismo proveravali ceo prostor ekrana piksel po piksel da li se nalazi u trouglu, mozemo posmatrati samo opisani pravougaonik oko trougla (sortiramo koordinate temena pa nadjemo)
 
 ### Pixmaps
